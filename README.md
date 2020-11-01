@@ -1,4 +1,4 @@
-# breadwallet-core
-SPV bitcoin C library
+# bstywallet-core
+SPV globalboost C library
 
-[getting started](https://github.com/breadwallet/breadwallet-core/wiki)
+[getting started](https://github.com/mendozg/bstywallet-core/wiki)
